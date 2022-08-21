@@ -18,7 +18,7 @@ Who am I 👀
 I'm a software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the quality assurance team at a software company. <br>
 </p>
 
-<p> 
+<p> <br>
 🌟 Check my medium blog its both English and Turkish.
 
 👩💻 I love researching, learning and sharing.
