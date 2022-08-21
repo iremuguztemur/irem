@@ -33,7 +33,7 @@ I'm a software test engineer who performs tests on software or applications to e
 <br>
 </p>
 
-<p>
+<p> <center>
 <a href="https://medium.com/@iremuguztemur" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
 </a> &nbsp;
@@ -43,6 +43,6 @@ I'm a software test engineer who performs tests on software or applications to e
 </a> &nbsp;
 
 
-</p>  
+</p>  <center>
 
 </div> </center>
