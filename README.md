@@ -7,6 +7,7 @@
 
 ### Hi there, I am İrem <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 🧡 Software Test Engineer <br>
+👩💻 I love researching, learning and sharing
 
 <p align="center">
 <br>
@@ -15,17 +16,9 @@
 Who am I 👀 
 </h2>
 <p>
-I'm a software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the quality assurance team at a software company. <br>
+I'm a software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the quality assurance team at a software company.
 </p>
-
-<p> <br>
-🌟 Check my medium blog its both English and Turkish.
-
-👩💻 I love researching, learning and sharing.
-
-<br>
-</p>
-
+ <br>
 <h2 align="center">
 🌿 Connect with me 🌿
 </h2>
