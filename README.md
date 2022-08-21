@@ -18,12 +18,6 @@ Who am I 👀
 I'm a software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the quality assurance team at a software company.
 </p>
 <br>
-
-<h2 align="center">
-🌿 Connect with me 🌿
-</h2>
- <div> <center>
-<br>
 <p> 
 🌟 Check my medium blog its both English and Turkish.
 
@@ -32,6 +26,11 @@ I'm a software test engineer who performs tests on software or applications to e
 <br>
 </p>
 
+<h2 align="center">
+🌿 Connect with me 🌿
+</h2>
+ <div> <center>
+<br>
 <p>
 <a href="https://medium.com/@iremuguztemur" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
