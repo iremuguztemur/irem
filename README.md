@@ -22,7 +22,7 @@ I'm a software test engineer who performs tests on software or applications to e
 <h2 align="center">
 🌿 Connect with me 🌿
 </h2>
- <div> <center>
+ <div align="center"> 
 <br>
 <p>
 <a href="https://medium.com/@iremuguztemur" target="_blank">
@@ -34,6 +34,6 @@ I'm a software test engineer who performs tests on software or applications to e
 </a> &nbsp;
 
 
-</p> </center>
+</p>
 
 </div> 
