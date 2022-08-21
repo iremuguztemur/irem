@@ -17,8 +17,6 @@ Who am I 👀
 <p>
 I'm a software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the quality assurance team at a software company.
 </p>
-
-
 <br>
 
 <h2 align="center">
