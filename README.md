@@ -16,7 +16,7 @@
 Who am I 👀 
 </h2>
 <p>
-I'm a software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the quality assurance team at a software company.
+I'm a junior software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently working on the field of software testing for improve myself. Specifically, I was working on basic exploratory and ui tests, some testing tools and using online automated test. I was developing some quality assurance projects and now,I'm developing basic api tests with Postman and SoapUI .
 </p>
  <br>
 <h2 align="center">
