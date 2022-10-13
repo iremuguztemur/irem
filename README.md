@@ -16,7 +16,7 @@
 Who am I 👀 
 </h2>
 <p>
-I'm a junior software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently improving my test ability. I worked on basic exploratory and ui tests, some testing tools and using online automated test before. I'm working on basic api tests and writing automated tests vith selenium right now.
+I'm a junior software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently improving my test ability. I worked on basic exploratory and ui tests, some testing tools and using online automated test before. I'm working on basic api tests and writing automated tests with selenium right now.
 </p>
  <br>
 <h2 align="center">
