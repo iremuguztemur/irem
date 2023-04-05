@@ -6,7 +6,7 @@
 
 
 ### Hi there, I am İrem <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-🧡 Software Test Engineer <br>
+🧡 Software QA Engineer <br>
 👩💻 I love researching, learning and sharing
 
 <p align="center">
