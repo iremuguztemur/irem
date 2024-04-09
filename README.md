@@ -4,7 +4,7 @@
 
 
 ### Hi there, I am İrem <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-🧡 Software QA Engineer <br>
+🧡 Software Engineer in Test <br>
 👩💻 I love researching, learning and sharing
 
 <p align="center">
@@ -14,7 +14,7 @@
 Who am I 👀 
 </h2>
 <p>
-I'm a junior software test engineer who performs tests on software or applications to ensure they work correctly. I'm currently improving my test ability. I worked on basic exploratory and ui tests, some testing tools and using online automated test before. I'm working on basic api tests and writing automated tests with selenium right now.
+As a software test engineer, I specialize in conducting comprehensive tests on various software and applications to guarantee their functionality, reliability, and user-friendliness. My role involves employing cutting-edge testing methodologies and tools to identify and resolve any potential issues, ensuring seamless user experiences and optimal performance. I am dedicated to continuously enhancing my testing skills and staying updated with the latest industry trends to deliver top-notch quality assurance solutions.🌠🌟
 </p>
  <br>
 <h2 align="center">
